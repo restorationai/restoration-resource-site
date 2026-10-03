@@ -16,6 +16,7 @@ faq: [{"question": "Can hidden mold make you sick even if you can't see it?", "a
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Logan Olsen"
 ---
 Hidden mold usually announces itself with small, easy-to-dismiss clues long before anyone finds a visible patch: a musty smell that won't go away, a discolored ceiling tile, allergy symptoms that ease up when you leave the house. If you're noticing any of that, the mold is probably already established somewhere you can't see, behind a wall, under flooring, inside a cavity around a leaking pipe. The fix isn't to wait and see. It's to track down the source, confirm what you're dealing with, and address the moisture problem that's feeding it before it spreads further.
 

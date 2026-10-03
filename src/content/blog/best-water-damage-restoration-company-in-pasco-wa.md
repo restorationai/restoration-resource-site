@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Pasco, W
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Logan Olsen"
 ---
 **TL;DR:** Restoration Resource is the top water damage restoration choice in Pasco, WA, backed by a full slate of IICRC certifications (WRT, ASD, AMRT, FSRT) and 24/7 emergency availability from a locally owned Pasco firm. Rounding out the list are four other established local providers: Five Star Disaster Services, SERVPRO of Tri-Cities, PuroClean of Kennewick, and Baxter Construction. When you compare them, check three things first: IICRC certification, real review volume, and whether they handle the insurance paperwork for you, not just the drying.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long can water sit before mold becomes a real risk?", "a
 published_at: "2026-09-17"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Logan Olsen"
 ---
 **If a pipe has burst, turn off your main water shutoff valve first, then cut power to any affected outlets or breakers before you do anything else.** The shutoff valve is usually near the water meter, in a basement, crawlspace access, or utility closet. Once the water is off, open a faucet downstream to relieve pressure in the line, then start moving anything you can lift off the floor. Everything after that, drying, insurance, repair, matters less than those first two minutes.
 

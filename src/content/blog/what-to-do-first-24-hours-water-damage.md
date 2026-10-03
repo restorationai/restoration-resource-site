@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to start growing after water 
 published_at: "2026-09-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Logan Olsen"
 ---
 If you've got standing water in your home right now, the first priority is stopping the source and getting the power and water shut off before you do anything else. Locate your main water shutoff valve and turn it, flip the breaker to any affected rooms if outlets or fixtures are submerged, and start moving valuables and furniture away from the wet area. The first 24 hours determine a lot about how the rest of this goes: how much material you save, whether mold gets a foothold, and how smoothly your insurance claim moves. Here's what that window actually looks like and what to do with it.
 

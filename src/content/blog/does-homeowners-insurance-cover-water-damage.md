@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a slow lea
 published_at: "2026-09-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Logan Olsen"
 ---
 Most homeowners insurance policies cover water damage when it's sudden and accidental, like a burst pipe, an overflowing washing machine, or a water heater that fails without warning. What they typically don't cover is damage from something that happened gradually, like a slow roof leak you never got around to fixing, or flooding from an outside source like a river or heavy rain pooling against your foundation. The difference between those two categories determines whether your claim gets paid, and it's the single most important thing to understand before you call your insurance company.
 

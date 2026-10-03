@@ -16,6 +16,7 @@ faq: [{"question": "Is black mold always toxic?", "answer": "Not necessarily. \"
 published_at: "2026-09-19"
 services: ["mold-remediation"]
 rendered: true
+author: "Logan Olsen"
 ---
 If you've found a dark patch of mold and you're wondering whether it's the notorious "black mold" or something more ordinary, the honest answer is: you can't tell by color alone, and neither can most professionals without a sample. Mold that looks black can be *Stachybotrys chartarum* (the species usually meant by "black mold"), but it can also be *Aspergillus*, *Cladosporium*, or several other common species that simply happen to be dark in color. What actually matters for your health and your home isn't the species name, it's how long the mold has been growing, how much of it there is, and what's feeding it. Visual ID is a starting point, not a diagnosis.
 

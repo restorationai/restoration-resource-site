@@ -16,6 +16,7 @@ faq: [{"question": "How much should a restoration estimate cost?", "answer": "A 
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Logan Olsen"
 ---
 If you're searching for this, something has probably already gone wrong, a pipe burst, a kitchen fire, or a musty smell that won't go away. The short answer: choose a company that documents the damage in writing before starting work, carries liability insurance, bills your carrier directly instead of asking you to pay upfront in full, and can explain its drying or cleanup process in plain language instead of vague reassurances. Avoid anyone who showed up unsolicited after a storm, pressures you to sign a contract on the spot, or won't give you a written scope of work. The rest of this guide walks through exactly what to check and what to avoid, whether you're dealing with water, fire, or mold.
 
