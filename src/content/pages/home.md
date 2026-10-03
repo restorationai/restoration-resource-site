@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Restoration Resource  | Restoration Services in Pasco, WA"
-h1: "24/7 Restoration Services in Pasco"
-meta_description: "Restoration Resource  provides 24/7 water, fire, mold, and storm damage restoration across Pasco and surrounding areas. Licensed, insured, IICRC-certified. Call +15095281166."
-primary_keyword: "restoration services pasco"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Pasco, WA | Restoration Resource"
+h1: "24/7 Water Damage Restoration in Pasco, WA"
+meta_description: "Restoration Resource provides water damage restoration in Pasco, WA, answering 24/7. IICRC certified. Call (509) 528-1166 now."
+primary_keyword: "water damage restoration pasco"
+secondary_keywords: ["best restoration company in pasco", "restoration company pasco", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "5bc8cb1af98cce1c"
