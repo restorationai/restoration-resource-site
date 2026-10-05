@@ -18,7 +18,7 @@ services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
 author: "Logan Olsen"
 ---
-Fire damage restoration follows a sequence: securing the structure, assessing what's salvageable, removing soot and smoke residue, cleaning and deodorizing everything that can be saved, and finally repairing or rebuilding what can't. The goal is to stop secondary damage from spreading while your home or business is stabilized, then work systematically from the ceiling down and the outside in. Most of the real work happens in the first 48 to 72 hours after the flames are out, because smoke residue keeps etching into surfaces and soot keeps turning acidic the longer it sits. Understanding each phase ahead of time makes the process feel less overwhelming when you're standing in a home that doesn't smell or look like yours anymore.
+[Fire damage restoration](/services/fire-damage-restoration/) follows a sequence: securing the structure, assessing what's salvageable, removing soot and smoke residue, cleaning and deodorizing everything that can be saved, and finally repairing or rebuilding what can't. The goal is to stop secondary damage from spreading while your home or business is stabilized, then work systematically from the ceiling down and the outside in. Most of the real work happens in the first 48 to 72 hours after the flames are out, because smoke residue keeps etching into surfaces and soot keeps turning acidic the longer it sits. Understanding each phase ahead of time makes the process feel less overwhelming when you're standing in a home that doesn't smell or look like yours anymore.
 
 ## What Actually Happens After a Fire
 

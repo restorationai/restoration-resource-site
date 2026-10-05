@@ -71,7 +71,7 @@ A small, contained spill you can mop up yourself doesn't need a restoration comp
 - There's any sewage involved, which carries contamination risk that goes beyond a simple cleanup
 - You smell mildew or see discoloration days after the initial leak, which suggests moisture is still trapped somewhere
 
-A restoration crew brings moisture meters and thermal imaging to find water that's migrated into wall cavities or under flooring, places a homeowner can't check without demolition. They also document the loss in the format insurance adjusters expect, which can speed up claim approval. If you're in the Pasco area and want a second set of eyes on a leak or a loss, Restoration Resource's water damage restoration team can assess the extent of the damage and walk you through what the drying and repair process will involve.
+A restoration crew brings moisture meters and thermal imaging to find water that's migrated into wall cavities or under flooring, places a homeowner can't check without demolition. They also document the loss in the format insurance adjusters expect, which can speed up claim approval. If you're in the Pasco area and want a second set of eyes on a leak or a loss, Restoration Resource's [water damage restoration](/services/water-damage-restoration/) team can assess the extent of the damage and walk you through what the drying and repair process will involve.
 
 ## The Recovery Process, Realistically
 

@@ -66,7 +66,7 @@ A DIY approach makes sense for a small, contained spot you can fully see and rea
 - Household members have ongoing respiratory symptoms tied to being in the house.
 - You're planning to sell the home and need documentation that the issue was properly addressed.
 
-At that point, a mold inspection is the right next move. Restoration Resource uses moisture meters and, where needed, air or surface sampling to confirm whether hidden growth is present, how far it extends, and what's feeding it, before any demolition or cleanup begins. That assessment is what turns guesswork into an actual scope of work.
+At that point, a [mold inspection](/services/mold-inspection-testing/) is the right next move. Restoration Resource uses moisture meters and, where needed, air or surface sampling to confirm whether hidden growth is present, how far it extends, and what's feeding it, before any demolition or cleanup begins. That assessment is what turns guesswork into an actual scope of work.
 
 ## What the Remediation Process Looks Like
 

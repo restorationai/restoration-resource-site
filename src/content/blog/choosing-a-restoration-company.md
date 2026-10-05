@@ -55,7 +55,7 @@ Small, contained situations, a single wet spot from a dishwasher leak caught wit
 - **Visible mold growth larger than a small, isolated patch**, or a persistent musty odor with no visible source. Disturbing mold without containment can spread spores to unaffected areas of the home.
 - **Sewage backup or contaminated water of any kind.** This is a category where the health risk of DIY handling outweighs any cost savings.
 
-If you're facing one of these, it's worth a call to a restoration company that handles water damage restoration, fire damage restoration, or mold remediation specifically, rather than a general handyman.
+If you're facing one of these, it's worth a call to a restoration company that handles water damage restoration, [fire damage restoration](/services/fire-damage-restoration/), or mold remediation specifically, rather than a general handyman.
 
 ## The Longer Recovery Process
 

@@ -45,7 +45,7 @@ Appliance supply lines deserve their own mention because they fail differently. 
 
 ## When to Call a Professional
 
-A plumber stops the leak at the source. A water damage restoration team handles everything the leak left behind, and those are two different jobs that often need to happen back to back. Call a restoration professional if any of the following apply:
+A plumber stops the leak at the source. A [water damage restoration](/services/water-damage-restoration/) team handles everything the leak left behind, and those are two different jobs that often need to happen back to back. Call a restoration professional if any of the following apply:
 
 - Water reached flooring, baseboards, or drywall and sat for more than an hour
 - You can hear or feel water under laminate, hardwood, or tile when you walk on it

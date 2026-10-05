@@ -36,7 +36,7 @@ Most retail kits fall into two types: a settling plate that collects spores from
 
 ## What a Professional Inspection Adds
 
-A professional mold inspection goes beyond a single air sample. An inspector typically takes multiple samples, indoors and outdoors, compares spore counts and types against each other, and uses a moisture meter or thermal imaging to trace the water source behind walls, under flooring, or inside a crawlspace. That comparison matters: a single indoor reading means little without an outdoor control sample, since spore counts vary by season and by what's growing in the yard.
+A professional [mold inspection](/services/mold-inspection-testing/) goes beyond a single air sample. An inspector typically takes multiple samples, indoors and outdoors, compares spore counts and types against each other, and uses a moisture meter or thermal imaging to trace the water source behind walls, under flooring, or inside a crawlspace. That comparison matters: a single indoor reading means little without an outdoor control sample, since spore counts vary by season and by what's growing in the yard.
 
 Inspectors can also identify whether you're dealing with a surface mold that a basic clean-up will handle, or a colonized area behind drywall or under subfloor that needs remediation work. Mold remediation, when it's needed, is typically guided by the IICRC S520 standard, which covers containment, air filtration, and verification testing after the work is done, not just wiping down a visible patch and hoping it doesn't come back.
 

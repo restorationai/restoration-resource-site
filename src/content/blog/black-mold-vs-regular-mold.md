@@ -52,7 +52,7 @@ Mold doesn't need much to get started: organic material (drywall paper, wood, du
 
 ## When to Call a Professional
 
-A good rule of thumb: if the visible mold is larger than about 10 square feet, if it followed a flood, burst pipe, or roof leak, if it's recurring after you've cleaned it before, or if anyone in the home has ongoing respiratory symptoms that improve when they're away from the house, it's time to bring in a mold remediation professional rather than keep treating it as a cleaning job. Remediation work typically follows the IICRC S520 standard for containment, removal of affected porous materials, HEPA filtration, and a final clearance check once the area is dry and the source is fixed, not just a surface wipe-down.
+A good rule of thumb: if the visible mold is larger than about 10 square feet, if it followed a flood, burst pipe, or roof leak, if it's recurring after you've cleaned it before, or if anyone in the home has ongoing respiratory symptoms that improve when they're away from the house, it's time to bring in a [mold remediation](/services/mold-remediation/) professional rather than keep treating it as a cleaning job. Remediation work typically follows the IICRC S520 standard for containment, removal of affected porous materials, HEPA filtration, and a final clearance check once the area is dry and the source is fixed, not just a surface wipe-down.
 
 ## The Recovery Process, Realistically
 
