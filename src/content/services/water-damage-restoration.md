@@ -55,6 +55,6 @@ The Tri-Cities sees hard freezes most winters, and frozen or burst pipes are one
 
 ## Service area
 
-Restoration Resource responds to water damage calls throughout Pasco and the surrounding Tri-Cities area, including Kennewick, Richland, and West Richland. Response specifics for each city are covered on their individual pages, but the extraction and drying process described here is the same approach used across the service area.
+Restoration Resource responds to water damage calls throughout Pasco and the surrounding Tri-Cities area, including [Kennewick](/service-areas/kennewick-wa/water-damage-restoration/), [Richland](/service-areas/richland-wa/water-damage-restoration/), and [West Richland](/service-areas/west-richland-wa/water-damage-restoration/). Response specifics for each city are covered on their individual pages, but the extraction and drying process described here is the same approach used across the service area.
 
 If water is actively spreading through your home or business, schedule your moisture assessment now and we'll start extraction before the damage reaches materials that are harder and more expensive to dry.

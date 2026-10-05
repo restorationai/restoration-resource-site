@@ -53,6 +53,6 @@ Pasco sits in the Columbia Basin, where open farmland and few windbreaks let spr
 
 ## Service area
 
-We respond to storm damage throughout Pasco and the surrounding Tri-Cities area, including Kennewick, Richland, and West Richland.
+We respond to storm damage throughout Pasco and the surrounding Tri-Cities area, including [Kennewick](/service-areas/kennewick-wa/storm-damage-restoration/), [Richland](/service-areas/richland-wa/storm-damage-restoration/), and [West Richland](/service-areas/west-richland-wa/storm-damage-restoration/).
 
 If a storm has left your roof leaking, a tree against your siding, or water tracking down an interior wall, don't wait to see if it dries on its own. Call Restoration Resource to schedule your storm damage assessment and get a written scope before the next weather system moves through.

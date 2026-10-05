@@ -53,6 +53,6 @@ Pasco sits in a high desert climate with low annual rainfall, which keeps outdoo
 
 ## Service area
 
-Restoration Resource responds to mold remediation calls throughout Pasco and the surrounding Tri-Cities area, including Kennewick and Richland, along with nearby communities across Franklin and Benton counties.
+Restoration Resource responds to mold remediation calls throughout Pasco and the surrounding Tri-Cities area, including [Kennewick](/service-areas/kennewick-wa/mold-remediation/) and Richland, along with nearby communities across Franklin and Benton counties.
 
 If you're seeing recurring discoloration, smelling a musty odor that won't go away, or dealing with the aftermath of a leak that sat too long before it was caught, request an air quality test and get a written scope before the growth spreads any further.
