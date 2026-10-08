@@ -42,4 +42,4 @@ Our website may use cookies or similar tools to understand general traffic patte
 
 ## Contact Us
 
-If you have questions about this privacy policy or how your information is handled, reach out to Logan at logan@restorationresource365.com or call +1 (509) 528-1166. You can also write to us at 3003 N Capital Ave, Pasco, WA 99301.
+If you have questions about this privacy policy or how your information is handled, reach out to Logan at logan@restorationresource365.com or call +1 (509) 528-1166. You can also write to us at 3003 N Capitol Ave, Pasco, WA 99301.

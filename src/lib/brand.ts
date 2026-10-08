@@ -42,7 +42,7 @@ export const brand = {
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
   addressCity: "Pasco",
   addressState: "WA",
-  streetAddress: "3003 N Capital Ave Pasco",
+  streetAddress: "3003 N Capitol Ave",
   postalCode: "99301",
   lat: "46.2306739",
   lng: "-119.0921",

@@ -27,4 +27,4 @@ Not every job is a crisis. If you're planning ahead, comparing options after a s
 
 ## Where we're located
 
-Restoration Resource is based at 3003 N Capital Ave in Pasco, WA 99301, and we're licensed under #RESTORL764CE. From there we cover Pasco and the greater Tri-Cities region, including Kennewick and Richland, along with the surrounding communities along the Columbia and Snake River corridors. If you're outside that radius, call anyway. We can usually tell you quickly whether we're a fit or point you toward who is.
+Restoration Resource is based at 3003 N Capitol Ave in Pasco, WA 99301, and we're licensed under #RESTORL764CE. From there we cover Pasco and the greater Tri-Cities region, including Kennewick and Richland, along with the surrounding communities along the Columbia and Snake River corridors. If you're outside that radius, call anyway. We can usually tell you quickly whether we're a fit or point you toward who is.
