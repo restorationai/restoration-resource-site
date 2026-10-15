@@ -42,6 +42,20 @@ Work performed is limited to what is specified in the signed authorization. Any 
 
 Restoration Resource performs work in accordance with applicable Washington State contracting regulations and standard industry drying and cleaning practices, including the IICRC S500 standard where relevant to water damage mitigation. Our liability for any claim related to services performed is limited to the scope and terms set out in the signed work-authorization agreement. We are not responsible for pre-existing conditions, code upgrades required by local jurisdictions, or damage outside the documented scope of work.
 
+## SMS / Text Messaging Terms
+
+Restoration Resource runs a customer care text program for customers who contact us about our services. By giving us your mobile number and agreeing to receive texts (for example, by checking the text consent box on our contact or estimate form, or by telling us on a call that we may text you), you agree to these terms.
+
+- **Program:** Restoration Resource customer care texts, sent from our business texting line.
+- **What we send:** messages about your service request or project, such as appointment scheduling and reminders, technician arrival times, job updates, follow-ups after the job, and a request to review our work. We do not send marketing texts to anyone who has not separately opted in to them.
+- **Message frequency:** message frequency varies based on your request and project.
+- **Cost:** Msg & data rates may apply, according to your mobile carrier's plan.
+- **Opting out:** reply STOP to any message to stop receiving texts. You will receive one final message confirming you have been unsubscribed, and no further texts will be sent unless you opt in again.
+- **Help:** reply HELP to any message for help or contact us at (509) 528-1166 or logan@restorationresource365.com.
+- **Not a condition of purchase:** consent to receive text messages is not a condition of purchasing any goods or services from us.
+- **Carriers:** mobile carriers are not liable for delayed or undelivered messages.
+- **Privacy:** we never share or sell your mobile number or your text messaging opt-in data and consent with third parties or affiliates for their marketing or promotional purposes. See our [Privacy Policy](/privacy/) for details.
+
 ## Dispute Resolution
 
 If a disagreement arises regarding scope, billing, or workmanship, we ask that it first be raised directly with our office so it can be addressed before escalating further. Any dispute not resolved informally will be handled according to the terms of the signed work-authorization agreement and governed by Washington State law.

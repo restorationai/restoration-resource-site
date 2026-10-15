@@ -28,6 +28,12 @@ We use the information you provide to respond to inquiries, schedule on-site est
 
 We do not sell or rent visitor information to third parties. We share details with an insurance carrier, adjuster, or property manager only when you have authorized that coordination as part of your claim or project. We may also share limited information with service providers who support our business operations, such as scheduling or billing software, under the condition that they handle it securely and do not use it for their own purposes.
 
+## Text Messaging and Mobile Information
+
+If you give us your mobile number and agree to receive texts, Restoration Resource may text you about your service request or project: appointment scheduling and reminders, technician arrival times, job updates, follow-ups after the job, and a request to review our work. Message frequency varies. Msg & data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help, or call us at (509) 528-1166. Consent to receive texts is not a condition of any purchase. Full texting terms are in our [Terms of Service](/terms/).
+
+**Mobile information is never shared.** No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent are excluded from every category of sharing described in this policy and will not be shared with any third parties. Restoration Resource collects your mobile number and your text opt-in consent (including when and how you gave it) only to send the messages you agreed to receive and to honor opt-out requests.
+
 ## Data Retention
 
 We retain contact form submissions and project-related records for as long as reasonably necessary to support your service history, respond to warranty or insurance questions, and meet standard recordkeeping practices. Analytics data is generally retained in aggregate form and is not tied to an individual visitor after a limited period.
