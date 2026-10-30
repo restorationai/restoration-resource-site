@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "42",
+  gbpReviewCount: "43",
   gbpReviews: [
+    { author: "Donna", rating: 5, text: "Logan and his Tri-Cities team are amazing with their flood cleanup. Professional, timely, reliable. Thank you for your service!", when: "October 2026" },
     { author: "Brennen", rating: 5, text: "They were so helpful throughout the whole water damage process in Kennewick Wa! They were quick, professional, and made a stressful situation so much easier. We really appreciate all their help!", when: "October 2026" },
     { author: "Kip", rating: 5, text: "Great service! Easy to work with, and would definitely let him do my house again.", when: "October 2026" },
     { author: "Ryker", rating: 5, text: "I would definitely recommend Logan at Restoration Resource. A supply line under our kitchen sink broke and caused water to spread into the cabinet, flooring, and part of the adjacent wall. Logan responded quickly, explained what needed to be done, and immediately got to work. He was…", when: "October 2026" },
     { author: "Parker", rating: 5, text: "Logan is a knowledgeable restoration professional with great customer service. Would recommend Restoration Resource to anyone!", when: "October 2026" },
     { author: "Raeanne", rating: 5, text: "I had a great experience working with this company, Logan in particular. I needed their services to fulfill a real estate contract obligation in Richland, Wa. They were professional, responsive, and timely throughout the entire process. The work was completed within a short timeframe, which was…", when: "September 2026" },
-    { author: "Bobby", rating: 5, text: "Amazing company. Top tier work. Communication is A1. Pricing is transparent and as fair as you’d expect from a contractor. Highly recommend. You won’t be disappointed in your choice", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Pasco, WA.",
   // optional custom insurance positioning line (Hero renders only when set)
