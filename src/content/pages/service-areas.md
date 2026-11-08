@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Restoration Resource  Restoration"
+title: "Service Areas | Restoration Resource"
 h1: "Areas We Serve"
 meta_description: "Restoration Resource  provides 24/7 restoration services across Pasco and the surrounding region. Find your city."
 primary_keyword: "restoration resource  service areas"
