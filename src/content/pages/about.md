@@ -1,7 +1,7 @@
 ---
 archetype: "about"
 title: "About Restoration Resource  | Pasco Restoration Company"
-h1: "About Restoration Resource "
+h1: "About Restoration Resource"
 meta_description: "Restoration Resource  has served Pasco since 2022. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
 primary_keyword: "restoration resource  pasco"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Industrial Restoration in Pasco | Restoration Resource "
+title: "Industrial Restoration in Pasco | Restoration Resource"
 h1: "Industrial Restoration in Pasco"
 meta_description: "24/7 industrial restoration in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "industrial restoration pasco"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Plymouth, WA | Restoration Resource "
+title: "Mold Remediation in Plymouth, WA | Restoration Resource"
 h1: "Mold Remediation in Plymouth"
 meta_description: "24/7 mold remediation in Plymouth, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "mold remediation plymouth"

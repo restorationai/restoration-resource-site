@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Reconstruction Services in Pasco | Restoration Resource "
+title: "Reconstruction Services in Pasco | Restoration Resource"
 h1: "Reconstruction Services in Pasco"
 meta_description: "24/7 reconstruction services in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "reconstruction services pasco"

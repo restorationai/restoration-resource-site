@@ -1,6 +1,6 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Restoration Resource "
+title: "Restoration Blog | Restoration Resource"
 h1: "Restoration Resources and Insights"
 meta_description: "Guides, checklists, and explainers from Restoration Resource  on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog pasco"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Prosser, WA | Restoration Resource "
+title: "24/7 Emergency Water Damage Restoration in Prosser, WA | Restoration Resource"
 h1: "24/7 Emergency Water Damage Restoration in Prosser"
 meta_description: "24/7 emergency water damage restoration in Prosser, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "water damage restoration prosser"

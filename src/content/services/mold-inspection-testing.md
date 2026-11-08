@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Mold Inspection and Testing in Pasco | Restoration Resource "
+title: "Mold Inspection and Testing in Pasco | Restoration Resource"
 h1: "Mold Inspection and Testing in Pasco"
 meta_description: "24/7 mold inspection and testing in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "mold inspection and testing pasco"

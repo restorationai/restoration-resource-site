@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Highland, WA | Restoration Resource "
+title: "Restoration Services in Highland, WA | Restoration Resource"
 h1: "Restoration Services in Highland"
 meta_description: "Serving Highland, WA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call +15095281166."
 primary_keyword: "restoration services highland"

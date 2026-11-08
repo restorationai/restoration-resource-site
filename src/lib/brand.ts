@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "restoration-resource",
-  displayName: "Restoration Resource ",
-  shortName: "Restoration Resource ",
-  legalName: "Restoration Resource ",
+  displayName: "Restoration Resource",
+  shortName: "Restoration Resource",
+  legalName: "Restoration Resource",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "Restoration Resource - 24/7 Emergency Plumbing, Water, Mold & Fire Damage Restoration",
   domain: "restorationresource365.com",
   canonicalUrl: "https://restorationresource365.com",
   phone: "+15095281166",

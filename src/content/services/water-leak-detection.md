@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Pasco | Restoration Resource "
+title: "Water Leak Detection in Pasco | Restoration Resource"
 h1: "Water Leak Detection in Pasco"
 meta_description: "24/7 water leak detection in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "water leak detection pasco"

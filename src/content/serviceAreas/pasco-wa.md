@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Serving All of Pasco, WA | Restoration Resource "
+title: "Serving All of Pasco, WA | Restoration Resource"
 h1: "Serving All of Pasco"
 meta_description: "Restoration Resource  is based in Pasco, WA. See the parts of Pasco we cover and every service we offer here. Call +15095281166."
 primary_keyword: "pasco service area"

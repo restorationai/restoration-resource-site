@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in West Richland, WA | Restoration Resource "
+title: "Restoration Services in West Richland, WA | Restoration Resource"
 h1: "Restoration Services in West Richland"
 meta_description: "Serving West Richland, WA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call +15095281166."
 primary_keyword: "restoration services west richland"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Renovations, Remodels and General Contracting in Pasco | Restoration Resource "
+title: "Renovations, Remodels and General Contracting in Pasco | Restoration Resource"
 h1: "Renovations, Remodels and General Contracting in Pasco"
 meta_description: "24/7 renovations, remodels and general contracting in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "renovations, remodels and general contracting pasco"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Kennewick, WA | Restoration Resource "
+title: "Mold Remediation in Kennewick, WA | Restoration Resource"
 h1: "Mold Remediation in Kennewick"
 meta_description: "24/7 mold remediation in Kennewick, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "mold remediation kennewick"

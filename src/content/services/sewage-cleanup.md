@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Pasco | Restoration Resource "
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Pasco | Restoration Resource"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Pasco"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "sewage cleanup and sanitization pasco"

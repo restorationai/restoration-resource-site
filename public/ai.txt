@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://restorationresource365.com/
-# Maintainer: Restoration Resource 
+# Maintainer: Restoration Resource
 # Contact: logan@restorationresource365.com
 # Sitemap: https://restorationresource365.com/sitemap-index.xml
 # LLM index: https://restorationresource365.com/llms.txt

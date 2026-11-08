@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Large Loss and Catastrophic Response in Pasco | Restoration Resource "
+title: "Large Loss and Catastrophic Response in Pasco | Restoration Resource"
 h1: "Large Loss and Catastrophic Response in Pasco"
 meta_description: "24/7 large loss and catastrophic response in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "large loss and catastrophic response pasco"

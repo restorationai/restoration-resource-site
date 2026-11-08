@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Mesa, WA | Restoration Resource "
+title: "Mold Remediation in Mesa, WA | Restoration Resource"
 h1: "Mold Remediation in Mesa"
 meta_description: "24/7 mold remediation in Mesa, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "mold remediation mesa"

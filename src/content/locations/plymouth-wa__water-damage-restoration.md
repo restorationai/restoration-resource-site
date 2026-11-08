@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Plymouth, WA | Restoration Resource "
+title: "24/7 Emergency Water Damage Restoration in Plymouth, WA | Restoration Resource"
 h1: "24/7 Emergency Water Damage Restoration in Plymouth"
 meta_description: "24/7 emergency water damage restoration in Plymouth, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "water damage restoration plymouth"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Prosser, WA | Restoration Resource "
+title: "Restoration Services in Prosser, WA | Restoration Resource"
 h1: "Restoration Services in Prosser"
 meta_description: "Serving Prosser, WA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call +15095281166."
 primary_keyword: "restoration services prosser"

@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Pasco | Restoration Resource "
+title: "Restoration Services in Pasco | Restoration Resource"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Pasco: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call +15095281166."
 primary_keyword: "restoration services pasco"

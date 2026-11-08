@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
 title: "Contact Restoration Resource  | 24/7 Restoration in Pasco"
-h1: "Contact Restoration Resource "
+h1: "Contact Restoration Resource"
 meta_description: "Call +15095281166 for 24/7 emergency restoration in Pasco and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "restoration resource  contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]

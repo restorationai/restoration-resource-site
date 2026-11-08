@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Highland, WA | Restoration Resource "
+title: "24/7 Emergency Fire Damage Restoration in Highland, WA | Restoration Resource"
 h1: "24/7 Emergency Fire Damage Restoration in Highland"
 meta_description: "24/7 emergency fire damage restoration in Highland, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "fire damage restoration highland"

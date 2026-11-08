@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Cleanup in Basin City, WA | Restoration Resource "
+title: "24/7 Emergency Water Cleanup in Basin City, WA | Restoration Resource"
 h1: "24/7 Emergency Water Cleanup in Basin City"
 meta_description: "24/7 emergency water cleanup in Basin City, WA. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "emergency water cleanup basin city"

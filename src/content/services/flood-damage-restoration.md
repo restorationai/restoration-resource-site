@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Flood Damage Restoration in Pasco | Restoration Resource "
+title: "24/7 Emergency Flood Damage Restoration in Pasco | Restoration Resource"
 h1: "24/7 Emergency Flood Damage Restoration in Pasco"
 meta_description: "24/7 emergency flood damage restoration in Pasco and surrounding areas. IICRC-certified, insurance billing accepted. Call +15095281166."
 primary_keyword: "flood damage restoration pasco"
