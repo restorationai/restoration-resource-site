@@ -10,7 +10,7 @@ priority: 2.5
 plan_hash: "b0f6e38a40ee4e91"
 generated_at: "2026-10-02T00:39:31.465493+00:00"
 manual_override: false
-internal_links: ["/", "/services/", "/contact/"]
+internal_links: ["/", "/services/", "/contact/", "/services/fire-damage-restoration/", "/services/flood-damage-restoration/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
 faq: [{"question": "How long has Restoration Resource been in business?", "answer": "Restoration Resource was founded in 2022 and has operated continuously in the Pasco area since then, working directly with homeowners and insurance carriers on water, fire, and mold losses."}, {"question": "What areas do you serve?", "answer": "The company is based in Pasco, WA and serves the surrounding Tri-Cities and Columbia Basin communities. Call ahead to confirm coverage for your specific address."}, {"question": "What certifications does your team hold?", "answer": "Restoration Resource is an IICRC Certified Firm with technicians holding IICRC credentials in water damage restoration (WRT), applied structural drying (ASD), mold remediation (AMRT), and fire and smoke restoration (FSRT). The company also operates under license #RESTORL764CE."}, {"question": "Who runs Restoration Resource?", "answer": "Restoration Resource is a restoration and remediation firm built around IICRC-certified technicians rather than a single public figurehead. Leadership oversees certification compliance, insurance coordination, and field quality on every job."}, {"question": "Are you available outside of normal business hours?", "answer": "Yes. Restoration Resource operates 24/7, since water, fire, and mold damage don't wait for business hours to get worse."}]
 rendered: true
