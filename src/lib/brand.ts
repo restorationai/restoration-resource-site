@@ -65,7 +65,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "IICRC WRT (Water)", "IICRC ASD (Structural Drying)", "IICRC AMRT (Mold)", "IICRC FSRT (Fire & Smoke)"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.facebook.com/RestorationResource", "https://www.instagram.com/restorationresource/", "https://maps.google.com/maps?cid=6127826761275239140", "https://homeguide.com/wa/pasco/water-damage-restoration/restoration-resource---24-7-emergency-plumbing--water--mold---fire-damage-restoration-HNYy0sBo9"] as string[],
+  sameAsUrls: ["https://www.facebook.com/RestorationResource", "https://www.instagram.com/restorationresource/", "https://maps.google.com/maps?cid=6127826761275239140", "https://www.yelp.com/biz/restoration-resource-pasco", "https://homeguide.com/wa/pasco/water-damage-restoration/restoration-resource---24-7-emergency-plumbing--water--mold---fire-damage-restoration-HNYy0sBo9"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
