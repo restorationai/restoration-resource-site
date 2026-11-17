@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "43",
+  gbpReviewCount: "47",
   gbpReviews: [
     { author: "Donna", rating: 5, text: "Logan and his Tri-Cities team are amazing with their flood cleanup. Professional, timely, reliable. Thank you for your service!", when: "October 2026" },
     { author: "Brennen", rating: 5, text: "They were so helpful throughout the whole water damage process in Kennewick Wa! They were quick, professional, and made a stressful situation so much easier. We really appreciate all their help!", when: "October 2026" },
