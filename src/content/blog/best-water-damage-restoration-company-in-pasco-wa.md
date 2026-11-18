@@ -63,11 +63,11 @@ Baxter Construction shows a 4.7 rating from 40 reviews. As a construction-focuse
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Restoration Resource | Not independently listed above | N/A | Yes | Yes (WRT, ASD, AMRT, FSRT) |
-| Five Star Disaster Services Inc. | 5.0 | 17 |, |, |
-| SERVPRO of Tri-Cities | 4.8 | 376 |, |, |
-| PuroClean of Kennewick | 4.9 | 15 |, |, |
-| Baxter Construction | 4.7 | 40 |, |, |
+| Restoration Resource | 5.0 | 47 | Yes | Yes (WRT, ASD, AMRT, FSRT) |
+| Five Star Disaster Services Inc. | 5.0 | 17 | Not listed | Not listed |
+| SERVPRO of Tri-Cities | 4.8 | 376 | Not listed | Not listed |
+| PuroClean of Kennewick | 4.9 | 15 | Not listed | Not listed |
+| Baxter Construction | 4.7 | 40 | Not listed | Not listed |
 
 ## What Should You Actually Check Before Hiring Anyone?
 
