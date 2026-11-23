@@ -13,6 +13,10 @@ export const brand = {
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
   dbaName: "Restoration Resource - 24/7 Emergency Plumbing, Water, Mold & Fire Damage Restoration",
+  // Brand name as text beside the header logo (Santino 2026-11-21): set
+  // ONLY by the rename flow (header_name_rollout.py) from the Citations
+  // Building stage on. false = logo only.
+  headerName: true,
   domain: "restorationresource365.com",
   canonicalUrl: "https://restorationresource365.com",
   phone: "+15095281166",
